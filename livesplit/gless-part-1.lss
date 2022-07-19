@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Portal</GameName>
+  <CategoryName>Glitchless [Part 1]</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>00/01</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>02/03</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>04/05</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>3.2.3</Version>
+    <AutoSplitEnabled>True</AutoSplitEnabled>
+    <SplitInterval>1</SplitInterval>
+    <UseSplitInterval>True</UseSplitInterval>
+    <UseMTL>True</UseMTL>
+    <MTLModeSetting>Disallow</MTLModeSetting>
+    <AutoSplitOnLevelTrans>True</AutoSplitOnLevelTrans>
+    <AutoSplitOnGenericMap>False</AutoSplitOnGenericMap>
+    <AutoSplitOnSpecial>True</AutoSplitOnSpecial>
+    <AutoStartEnabled>True</AutoStartEnabled>
+    <AutoStopEnabled>True</AutoStopEnabled>
+    <AutoResetEnabled>True</AutoResetEnabled>
+    <StartMap>testchmb_a_00</StartMap>
+    <AddAutoStartType>Transition</AddAutoStartType>
+    <AllowAdditionalAutoStart>True</AllowAdditionalAutoStart>
+    <ShowGameTime>True</ShowGameTime>
+    <ShowAltTime>False</ShowAltTime>
+    <ShowTickCount>False</ShowTickCount>
+    <ShowCurDemo>False</ShowCurDemo>
+    <GameTimeDecimalPlaces>6</GameTimeDecimalPlaces>
+    <HoldUntilPause>True</HoldUntilPause>
+    <RTAStartOffset>True</RTAStartOffset>
+    <ServerInitialTicks>False</ServerInitialTicks>
+    <SLPenalty>0</SLPenalty>
+    <SplitInstead>False</SplitInstead>
+    <ResetMapTransitions>False</ResetMapTransitions>
+    <CountEngineTicks>True</CountEngineTicks>
+    <CountPauses>True</CountPauses>
+    <CountDisconnects>False</CountDisconnects>
+    <CountInactive>False</CountInactive>
+    <CountAutomatic>True</CountAutomatic>
+    <CountDemoInterop>False</CountDemoInterop>
+    <PrintDemoInfo>False</PrintDemoInfo>
+    <DemoParserPath>
+    </DemoParserPath>
+    <MapTransitionList>testchmb_a_00|testchmb_a_01,testchmb_a_01|testchmb_a_02,testchmb_a_02|testchmb_a_03</MapTransitionList>
+  </AutoSplitterSettings>
+</Run>
