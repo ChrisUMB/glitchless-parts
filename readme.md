@@ -1,4 +1,5 @@
 # Glitchless Parts
+[Video Example of AutoSplit](https://www.youtube.com/watch?v=h3mA_OdqE2w)
 
 Glitchless Parts is a project that allows you to practice different parts of the full game, instead of ILs, with LiveSplit
 auto split support. The idea is that practicing sections instead of the IL is more beneficial to your muscle memory, as it makes 
