@@ -24,12 +24,15 @@ In the zip file included in the releases section, there are splits files for all
 saves aren't necessary, you can use any IL save as long as it transitions from the previous map to the first map in the
 part you are running. The layout provided is nice because it works for all 5 of the parts.
 
+Lastly, all the splits contain a "Sid" comparison, which are split times that SiDiouS reasonably obtains RTA. This is a
+brutal thing to compare against for most people, but it can help highlight where you might be bleeding the most time.
+
 ## Setup
 
 1. Download the [latest release of Glitchless Parts](https://github.com/ChrisUMB/glitchless-parts/releases/download/release/Glitchless-Parts-v1.0.zip) from the GitHub releases section
 2. Download the [latest version of SourceSplit](https://drive.google.com/drive/folders/1HAlTbF91NEzJVgzpmxlwhjv7JEZZGCAK) maintained by 2838 (at the time of writing is 3.2.3.3)
 3. Unzip the zip file somewhere, most likely in your Portal speedrun folder
-4. Open the splits file for the part you want to practice
+4. Open the splits file for the part you want to practice, and make sure you swap the comparison to Game Time
 5. Load an IL save for the first map in the part, or one of the saves provided in the zip file. The splits should auto start,
 split, and end
 

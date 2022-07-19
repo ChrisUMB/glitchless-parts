@@ -22,6 +22,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="Sid">
+          <GameTime>00:00:35.5500000</GameTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
@@ -31,6 +34,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="Sid">
+          <GameTime>00:01:01.3500000</GameTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
@@ -40,6 +46,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="Sid">
+          <GameTime>00:01:34.3500000</GameTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
@@ -49,6 +58,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="Sid">
+          <GameTime>00:01:34.3500000</GameTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
