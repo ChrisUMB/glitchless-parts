@@ -1,7 +1,5 @@
 # Glitchless Parts
 
-https://github.com/ChrisUMB/glitchless-parts/blob/master/video.mp4
-
 Glitchless Parts is a project that allows you to practice different parts of the full game, instead of ILs, with LiveSplit
 auto split support. The idea is that practicing sections instead of the IL is more beneficial to your muscle memory, as it makes 
 you learn how to go from map to map without just doing full game runs.
