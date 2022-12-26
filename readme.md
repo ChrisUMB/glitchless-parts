@@ -30,7 +30,7 @@ brutal thing to compare against for most people, but it can help highlight where
 ## Setup
 
 1. Download the [latest release of Glitchless Parts](https://github.com/ChrisUMB/glitchless-parts/releases/download/release/Glitchless-Parts-v1.0.zip) from the GitHub releases section
-2. Download the [latest version of SourceSplit](https://drive.google.com/drive/folders/1HAlTbF91NEzJVgzpmxlwhjv7JEZZGCAK) maintained by 2838 (at the time of writing is 3.2.3.3)
+2. Download the [latest version of SourceSplit](https://drive.google.com/drive/folders/1HAlTbF91NEzJVgzpmxlwhjv7JEZZGCAK) maintained by 2838 (at the time of writing is 3.3.1)
 3. Unzip the zip file somewhere, most likely in your Portal speedrun folder
 4. Open the splits file for the part you want to practice, and make sure you swap the comparison to Game Time
 5. Load an IL save for the first map in the part, or one of the saves provided in the zip file. The splits should auto start,
